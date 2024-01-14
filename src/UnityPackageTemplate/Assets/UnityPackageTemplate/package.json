@@ -1,0 +1,14 @@
+{
+    "name": "com.natsu1211.unity-package-template",
+    "version": "0.1.0",
+    "displayName": "UnityPackageTemplate",
+    "description": "Strap for creating custon unity package. Modify this.",
+    "keywords": [
+        "2D"
+    ],
+    "dependencies": {
+    },
+    "author": {
+        "name": "natsu1211"
+    }
+}
